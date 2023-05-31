@@ -1,0 +1,11 @@
+# Updated 6/3/22 1:21 PM by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+clyde|2022-05-06 16:55:11 +0000|(Unknown)|Forever|Banned by an operator.
+tanle19|2022-05-06 17:00:49 +0000|(Unknown)|Forever|Banned by an operator.
+ender_fire3iu8h|2022-05-06 18:30:50 +0000|(Unknown)|Forever|Banned by an operator.
+apple|2022-05-09 18:35:09 +0000|(Unknown)|Forever|Banned by an operator.
+cylde|2022-05-10 16:30:31 +0000|(Unknown)|Forever|Banned by an operator.
+blaze|2022-05-20 13:30:14 +0000|(Unknown)|Forever|Banned by an operator.
+alex75|2022-05-26 16:51:57 +0000|(Unknown)|Forever|Banned by an operator.
+console|2022-05-25 16:22:59 +0000|(Unknown)|Forever|Banned by an operator.
