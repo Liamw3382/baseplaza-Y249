@@ -18,7 +18,7 @@ emergbukkit="false"
 
 #~#       this code was smashed together by ayunami2000       #~#
 
-eagurl="https://raw.githubusercontent.com/LAX1DUDE/eaglercraft/main/stable-download/stable-download_repl.zip"
+eagurl="https://raw.githubusercontent.com/Liamw3382/stable-download/main/stable-download/stable-download.zip"
 
 echo ensuring old server process is truly closed...
 nginx -s stop -c ~/$REPL_SLUG/nginx.conf -g 'daemon off; pid /tmp/nginx/nginx.pid;' -p /tmp/nginx -e /tmp/nginx/error.log
